@@ -61,7 +61,7 @@ View the current weather details, including temperature, humidity, and wind spee
 Conclusion
 This weather app is a great beginner-friendly project for learning how to interact with APIs using JavaScript. It demonstrates how to fetch and display real-time data dynamically while ensuring a smooth user experience. Further enhancements could include additional features such as a 5-day weather forecast, geolocation-based weather fetching, or more advanced styling for improved user experience.
 
-Let me know if you need any modifications or additional features! 😊
+
 
 
 
